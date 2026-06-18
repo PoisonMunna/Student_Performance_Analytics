@@ -230,9 +230,9 @@ python student_performance_analysis.py
 
 ## PROJECT STRUCTURE
 
-├── StudentsPerformance.csv          # Dataset  
-├── student_performance_analysis.py  # Main analysis script  
-└── README.md                        # Project documentation  
+├── StudentsPerformance.csv                # Dataset  
+├── student_performance_analysis.py          # Main analysis script  
+└── README.md                               # Project documentation  
 
 ## CONCLUSION
 This project taught me that data science is about curiosity, critical thinking, and communication.
